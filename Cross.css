@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html>
+	<body>
+		<style type="text/css">
+
+		body {
+
+		}
+		div {
+			background-color: #F0F8FF;
+			}
+
+		h2 {
+			font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+			text-align: center;
+			font-weight: bolder;
+			font-size: 2em;
+			color: #4B0082;
+			padding-top: 1em;
+		}
+
+		table {
+			border: solid navy;
+			text-align: center;
+			margin-left: auto;
+			margin-right: auto;
+
+		}
+
+		tr, td {
+			border: 3px solid navy;
+			text-align: center;
+			height: 120px;
+			width: 120px;
+			background-color:rgb(75, 75, 138);
+		}
+
+		.buttons {
+			text-align: center;
+			font-weight:normal;
+			margin-left: auto;
+			margin-right: auto;
+			font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			color: #191970;
+		}
+
+		#buttonStart{
+			font-weight: bold;
+		}
+		
+		.message {
+			text-align: center;
+			font-size:normal;
+			font-weight:bold;
+			color:firebrick;
+			font-family:   'Franklin Gothic Medium', 'Trebuchet MS', 'Lucida Sans Unicode',;
+		}
+
+		.footer {
+			height: 200px;
+		}
+	
+		.hidden {
+			display: none;
+		}
+
+
+	</body>
+
+</html>
+
